@@ -25,7 +25,7 @@ Data processing
 - Tidy Data https://www.jstatsoft.org/article/view/v059i10
 
 D3.JS
--https://observablehq.com/@d3/learn-d3
+- https://observablehq.com/@d3/learn-d3
 
 Jupyter Notebooks
 - https://jupyter.org/try-jupyter/lab/
@@ -34,15 +34,27 @@ Observable Notebooks
 - https://observablehq.com/tutorials
 
 Dataviz
-- https://clauswilke.com/dataviz/}
+- https://clauswilke.com/dataviz/
 - Interactive Data Visualization for the Web https://web.archive.org/web/20160301070001/http://chimera.labs.oreilly.com/books/1230000000345/ch01.html
 
 Git
 - http://rogerdudler.github.io/git-guide/
 - https://nvie.com/posts/a-successful-git-branching-model/
 
-TODO
-- Design de systèmes
-- Intégration continue
-- Docker
+Software design
+- https://github.com/DovAmir/awesome-design-patterns
 
+Use of command line
+- https://www.codecademy.com/learn/learn-the-command-line
+
+Intégration continue
+- https://www.atlassian.com/continuous-delivery/continuous-integration
+
+Docker
+- https://docs.docker.com/get-started/
+
+IDE
+- https://code.visualstudio.com/
+
+Code style
+- https://github.com/airbnb/javascript
