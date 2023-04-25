@@ -1,10 +1,20 @@
 # tuto
 
-Apprendre à programmer
+Setup a coding environment 
+- IDE https://code.visualstudio.com/
+- Github Desktop https://desktop.github.com/
+- For windows users: command line cygwin https://www.cygwin.com/
+- For mac users: command line iTerm2 https://iterm2.com/
+
+Learn to code
 - https://www.freecodecamp.org/
 
-Apprendre Python
+Learn Python
 - https://docs.python-guide.org/
+- https://realpython.com/learning-paths/
+
+Algorithmic and data structures
+- Coding exercices https://github.com/erjan/coding_exercises
 
 JavaScript
 - https://javascript.info/
@@ -12,8 +22,9 @@ JavaScript
 - Algorithmes en JavaScript https://github.com/trekhleb/javascript-algorithms
 - Eloquent JavaScript https://eloquentjavascript.net/
 - JavaScript et science des données http://js4ds.org/
--  
-Programmation Web
+- JavaScript modules https://ultimatecourses.com/blog/mastering-the-module-pattern
+
+Web programming
 - HTML et CCSS https://www.w3.org/Style/Examples/011/firstcss.en.html
 - SVG https://oreillymedia.github.io/Using_SVG/guide/markup.html
 - Manipulation du DOM en JS https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Manipulating_documents
@@ -41,20 +52,30 @@ Git
 - http://rogerdudler.github.io/git-guide/
 - https://nvie.com/posts/a-successful-git-branching-model/
 
+<details>
+  <summary>Other</summary>
+
+- https://docs.github.com/en/repositories/releasing-projects-on-github/managing-releases-in-a-repository
+
+</details>
+
 Software design
 - https://github.com/DovAmir/awesome-design-patterns
 
 Use of command line
 - https://www.codecademy.com/learn/learn-the-command-line
 
-Intégration continue
+Continuous integration
 - https://www.atlassian.com/continuous-delivery/continuous-integration
 
 Docker
 - https://docs.docker.com/get-started/
 
-IDE
-- https://code.visualstudio.com/
-
 Code style
-- https://github.com/airbnb/javascript
+- JavaScript https://github.com/airbnb/javascript
+- Python https://www.python.org/dev/peps/pep-0008/
+- HTML https://google.github.io/styleguide/htmlcssguide.html
+
+Server administration
+- ngix https://www.nginx.com/resources/wiki/
+- crontab https://crontab.guru/
