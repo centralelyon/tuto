@@ -70,6 +70,7 @@ Continuous integration
 
 Docker
 - https://docs.docker.com/get-started/
+- https://labs.play-with-docker.com/
 
 Code style
 - JavaScript https://github.com/airbnb/javascript
@@ -79,3 +80,6 @@ Code style
 Server administration
 - ngix https://www.nginx.com/resources/wiki/
 - crontab https://crontab.guru/
+
+Documentation
+- https://realpython.com/documenting-python-code/
