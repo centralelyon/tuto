@@ -1,22 +1,22 @@
 # tuto
 
-## Setup a coding environment 
+#### <a name="setup"></a> Setup a coding environment 
 - IDE https://code.visualstudio.com/
 - Github Desktop https://desktop.github.com/
 - For windows users: command line cygwin https://www.cygwin.com/
 - For mac users: command line iTerm2 https://iterm2.com/
 
-## Learn to code
+#### <a name="code"></a> Learn to code
 - https://www.freecodecamp.org/
 
-### Learn Python
+#### <a name="python"></a> Learn Python
 - https://docs.python-guide.org/
 - https://realpython.com/learning-paths/
 
 #### <a name="algos"></a> Algorithmic and data structures
 - Coding exercices https://github.com/erjan/coding_exercises
 
-JavaScript
+#### <a name="js"></a> JavaScript
 - https://javascript.info/
 - https://exploringjs.com/impatient-js/toc.html
 - Algorithmes en JavaScript https://github.com/trekhleb/javascript-algorithms
@@ -24,7 +24,7 @@ JavaScript
 - JavaScript et science des données http://js4ds.org/
 - JavaScript modules https://ultimatecourses.com/blog/mastering-the-module-pattern
 
-Web programming
+#### <a name="web"></a> Web programming
 - HTML et CCSS https://www.w3.org/Style/Examples/011/firstcss.en.html
 - SVG https://oreillymedia.github.io/Using_SVG/guide/markup.html
 - Manipulation du DOM en JS https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Manipulating_documents
