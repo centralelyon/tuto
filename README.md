@@ -1,19 +1,19 @@
 # tuto
 
-Setup a coding environment 
+## Setup a coding environment 
 - IDE https://code.visualstudio.com/
 - Github Desktop https://desktop.github.com/
 - For windows users: command line cygwin https://www.cygwin.com/
 - For mac users: command line iTerm2 https://iterm2.com/
 
-Learn to code
+## Learn to code
 - https://www.freecodecamp.org/
 
-Learn Python
+### Learn Python
 - https://docs.python-guide.org/
 - https://realpython.com/learning-paths/
 
-Algorithmic and data structures
+#### <a name="algos"></a> Algorithmic and data structures
 - Coding exercices https://github.com/erjan/coding_exercises
 
 JavaScript
@@ -49,6 +49,7 @@ Dataviz
 - Interactive Data Visualization for the Web https://web.archive.org/web/20160301070001/http://chimera.labs.oreilly.com/books/1230000000345/ch01.html
 
 Git
+- https://docs.github.com/en/get-started/quickstart/hello-world
 - http://rogerdudler.github.io/git-guide/
 - https://nvie.com/posts/a-successful-git-branching-model/
 
