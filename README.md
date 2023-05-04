@@ -52,6 +52,7 @@ Git
 - https://docs.github.com/en/get-started/quickstart/hello-world
 - http://rogerdudler.github.io/git-guide/
 - https://nvie.com/posts/a-successful-git-branching-model/
+- https://www.conventionalcommits.org/en/v1.0.0/
 
 <details>
   <summary>Other</summary>
@@ -69,7 +70,8 @@ Use of command line
 Continuous integration
 - https://www.atlassian.com/continuous-delivery/continuous-integration
 
-Docker
+#### <a name="docker"></a> Docker
+
 - https://docs.docker.com/get-started/
 - https://labs.play-with-docker.com/
 
@@ -84,3 +86,7 @@ Server administration
 
 Documentation
 - https://realpython.com/documenting-python-code/
+
+Design patterns
+- https://refactoring.guru/
+- 
