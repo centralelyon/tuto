@@ -65,6 +65,7 @@
 #### <a name="software-design"></a> Software design
 - https://github.com/DovAmir/awesome-design-patterns
 
+
 #### <a name="command-line"></a> Use of command line
 - https://www.codecademy.com/learn/learn-the-command-line
 
@@ -72,7 +73,6 @@
 - https://www.atlassian.com/continuous-delivery/continuous-integration
 
 #### <a name="docker"></a> Docker
-
 - https://docs.docker.com/get-started/
 - https://labs.play-with-docker.com/
 
@@ -86,9 +86,20 @@
 - ngix https://www.nginx.com/resources/wiki/
 - crontab https://crontab.guru/
 
+#### <a name="server-admin"></a> Bash shell
+- http://www.hpc.lsu.edu/training/weekly-materials/2021-Fall/bash_fall_2021.pdf
+
 #### <a name="doc"></a> Documentation
 - https://realpython.com/documenting-python-code/
 
-#### <a name="design-patterns"></a> Design patterns
+#### <a name="bash-shell"></a> Design patterns
 - https://refactoring.guru/
 - https://sourcemaking.com/design_patterns
+
+#### <a name="system-design"></a> System design
+- https://localfirstweb.dev/
+- https://johnnydecimal.com/10-19-concepts/11-core/11.01-introduction/
+
+#### <a name="misc"></a> Misc
+- https://dcic-world.org/2023-02-21/booklet_intro-to-programming.html
+- https://verdagon.dev/blog/first-100k-lines
