@@ -88,6 +88,7 @@
 
 #### <a name="server-admin"></a> Bash shell
 - http://www.hpc.lsu.edu/training/weekly-materials/2021-Fall/bash_fall_2021.pdf
+- https://devhints.io/bash
 
 #### <a name="doc"></a> Documentation
 - https://realpython.com/documenting-python-code/
