@@ -1,7 +1,7 @@
 # tuto
 
 #### <a name="setup"></a> Setup a coding environment 
-- IDE https://code.visualstudio.com/
+- VSCode IDE https://code.visualstudio.com/
 - Github Desktop https://desktop.github.com/
 - For windows users: command line cygwin https://www.cygwin.com/
 - For mac users: command line iTerm2 https://iterm2.com/
@@ -12,7 +12,18 @@
 #### <a name="python"></a> Learn Python
 - https://docs.python-guide.org/
 - https://realpython.com/learning-paths/
+- https://github.com/jpmorganchase/python-training
+- https://learnpython.org/
+- https://jakevdp.github.io/PythonDataScienceHandbook/
 
+Books
+- Think Python https://allendowney.github.io/ThinkPython/ (new version)
+- Think Python https://greenteapress.com/thinkpython2/thinkpython2.pdf
+- Python for Everybody http://do1.dr-chuck.com/pythonlearn/EN_us/pythonlearn.pdf
+
+#### <a name="jupyter"></a> Jupyter Notebooks
+- https://jupyter.org/try-jupyter/lab/
+- 
 #### <a name="algos"></a> Algorithmic and data structures
 - Coding exercices https://github.com/erjan/coding_exercises
 
@@ -24,6 +35,7 @@
 - Eloquent JavaScript https://eloquentjavascript.net/
 - JavaScript et science des données http://js4ds.org/
 - JavaScript modules https://ultimatecourses.com/blog/mastering-the-module-pattern
+- https://exploringjs.com/es6.html
 
 #### <a name="web"></a> Web programming
 - HTML et CCSS https://www.w3.org/Style/Examples/011/firstcss.en.html
@@ -36,11 +48,12 @@
 - Glossaire des données https://github.com/ramiroaznar/data-glossary
 - Tidy Data https://www.jstatsoft.org/article/view/v059i10
 
+#### <a name="data-processing"></a> Image/Video processing
+- https://opencv.org/
+- https://github.com/cloudxlab/opencv-intro
+
 #### <a name="d3js"></a> D3.JS
 - https://observablehq.com/@d3/learn-d3
-
-#### <a name="jupyter"></a> Jupyter Notebooks
-- https://jupyter.org/try-jupyter/lab/
 
 #### <a name="observable"></a> Observable Notebooks
 - https://observablehq.com/tutorials
@@ -54,6 +67,18 @@
 - http://rogerdudler.github.io/git-guide/
 - https://nvie.com/posts/a-successful-git-branching-model/
 - https://www.conventionalcommits.org/en/v1.0.0/
+- Git hooks https://github.com/compscilauren/awesome-git-hooks
+- https://wizardzines.com/
+- https://jvns.ca/
+
+
+### Computer vision
+- https://github.com/jbhuang0604/awesome-computer-vision
+- https://github.com/roboflow/notebooks
+
+### Code structure
+https://docs.python-guide.org/writing/structure/#decorators
+
 
 <details>
   <summary>Other</summary>
@@ -85,10 +110,11 @@
 #### <a name="server-admin"></a> Server administration
 - ngix https://www.nginx.com/resources/wiki/
 - crontab https://crontab.guru/
-
-#### <a name="server-admin"></a> Bash shell
-- http://www.hpc.lsu.edu/training/weekly-materials/2021-Fall/bash_fall_2021.pdf
 - https://devhints.io/bash
+
+#### <a name="server-admin"></a> Shell commands
+- http://www.hpc.lsu.edu/training/weekly-materials/2021-Fall/bash_fall_2021.pdf
+- https://dagshub.com/blog/effective-linux-bash-data-scientists/
 
 #### <a name="doc"></a> Documentation
 - https://realpython.com/documenting-python-code/
@@ -100,7 +126,41 @@
 #### <a name="system-design"></a> System design
 - https://localfirstweb.dev/
 - https://johnnydecimal.com/10-19-concepts/11-core/11.01-introduction/
+- https://appventuretime.blog/how-to-design-software-architecture-for-startups
+
+#### <a name="system-design"></a> Tests
+https://perso.liris.cnrs.fr/francoise.conil/les-tests-avec-pytest/#/title-slide
 
 #### <a name="misc"></a> Misc
 - https://dcic-world.org/2023-02-21/booklet_intro-to-programming.html
 - https://verdagon.dev/blog/first-100k-lines
+- https://jchyip.medium.com/the-age-of-cargo-cult-agile-must-end-9408e1d13e1d
+
+#### <a name="ffmpeg"></a> FFMPEG
+- https://amiaopensource.github.io/ffmprovisr/
+
+
+### Workflows
+
+- https://github.com/meirwah/awesome-workflow-engines
+- SemVer https://semver.org/
+- https://github.com/vinta/awesome-python
+- https://enterprisersproject.com/article/2020/6/technical-debt-explained-plain-english
+
+
+### Git
+
+- https://ohmygit.org/
+- Feature branch workflow https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow
+
+#### <a name="misc"></a> Other tutos
+
+- https://github.com/EbookFoundation/free-programming-books/blob/main/courses/free-courses-en.md
+- Datascience notebooks https://datasciencenotebook.org/
+- Code review https://medium.com/expedia-group-tech/the-importance-of-being-a-code-reviewer-fdbd910fbce7 
+- https://www.g2.com/compare/cypress-vs-circleci
+- Clean code https://testdriven.io/blog/clean-code-python/
+- https://grafikart.fr/
+- https://roadmap.sh/frontend
+- https://yoan-thirion.gitbook.io/knowledge-base/software-craftsmanship/testing/clean-tests
+- https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#GitHub-flavored-markdown
